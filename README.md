@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=250px height=250px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/250px-Jupyter_logo.svg.png" alt="Project logo"></a>
+ <img width=250px height=290px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/250px-Jupyter_logo.svg.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Price Car Prediction</h3>
@@ -14,7 +14,7 @@
 
 ---
 
-<p align="center"> Notebook com avaliação e predição de preços de carros
+<p align="center"> Notebook para Predição de Preços de Carros
     <br> 
 </p>
 
@@ -23,8 +23,8 @@
 - [Sobre](#sobre)
 - [Começando](#comecando)
 - [Uso](#uso)
-- [Bibliotecas Utilizadas](#bibliotecas)
-- [Authores](#autores)
+- [Bibliotecas](#bibliotecas)
+- [Autores](#autores)
 
 ## 🧐 Sobre <a name = "sobre"></a>
 
@@ -51,11 +51,11 @@ Copie o modelo para seu ambiente juntamente com o Dataset *cars.csv*. Para execu
 
 Pode ser utilizado o dataset presente no repositório ou um próprio no mesmo formato.
 
-## 📓 Bibliotecas Utilizadas <a name = "bibliotecas"></a>
+## 📓 Bibliotecas <a name = "bibliotecas"></a>
 
-- [pandas](https://pandas.pydata.org/docs/index.html) - Ferramenta para manipulação de DataFrames
-- [scikit-learn](https://scikit-learn.org/stable/) - Ferramentas para predição de dados
+- [pandas](https://pandas.pydata.org/docs/index.html) - Ferramentas para manipulação de DataFrames.
+- [scikit-learn](https://scikit-learn.org/stable/) - Ferramentas para predição de dados.
 
 ## ✍️ Autores <a name = "autores"></a>
 
-- [@JeanPoffo](https://github.com/JeanPoffo) - Idealização e Desenvolvimento
+- [@JeanPoffo](https://github.com/JeanPoffo) - Idealização e Desenvolvimento.
