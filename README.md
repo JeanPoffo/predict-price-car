@@ -55,6 +55,7 @@ Pode ser utilizado o dataset presente no repositório ou um próprio no mesmo fo
 
 - [pandas](https://pandas.pydata.org/docs/index.html) - Ferramentas para manipulação de DataFrames.
 - [scikit-learn](https://scikit-learn.org/stable/) - Ferramentas para predição de dados.
+- [plotly](https://plotly.com/python/) - Ferramentas para criação de gráficos.
 
 ## ✍️ Autores <a name = "autores"></a>
 
