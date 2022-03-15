@@ -14,28 +14,29 @@
 
 ---
 
-<p align="center"> Notebook para Predição de Preços de Carros
+<p align="center"> Notebook for Car Price Prediction
     <br> 
 </p>
 
 ## 📝 Table of Contents
 
-- [Sobre](#sobre)
-- [Começando](#comecando)
-- [Uso](#uso)
-- [Bibliotecas](#bibliotecas)
-- [Autores](#autores)
+- [About](#about)
+- [Getting Started](#getting_started)
+- [Usage](#usage)
+- [Built Using](#built_using)
+- [Authors](#authors)
 
-## 🧐 Sobre <a name = "sobre"></a>
+## 🧐 About <a name = "about"></a>
 
-Modelo para predição de preços de carros, utilizando tratativas de dados e um algorítmo de *Random Forest*.
-## 🏁 Começando <a name = "comecando"></a>
+Model for car price prediction, using data processing and a *Random Forest* algorithm.
 
-Faça o clone do projeto em sua máquina e siga o procedimento para instalação.
+## 🏁 Getting Started <a name = "getting_started"></a>
 
-### Pré Requisitos
+Clone the project on your machine and follow the installation procedure.
 
-Para execução do modelo de predição, é necessário ter instalado:
+### Prerequisites
+
+To run the prediction model, you must have installed:
 
 ```
 Python 3.8.10
@@ -43,20 +44,20 @@ Python 3.8.10
 Jupyter Lab
 ```
 
-### Instalando
+### Installing
 
-Copie o modelo para seu ambiente juntamente com o Dataset *cars.csv*. Para execução em outros locais, utilize o caminho absoluto em *cars_file_path*.
+Copy the model to your environment along with the Dataset *cars.csv*. For execution elsewhere, use the absolute path in *cars_file_path*.
 
-## 🎈 Uso <a name="uso"></a>
+## 🎈 Usage <a name="usage"></a>
 
-Pode ser utilizado o dataset presente no repositório ou um próprio no mesmo formato.
+The dataset present in the same format can be used.
 
-## 📓 Bibliotecas <a name = "bibliotecas"></a>
+## 📓 Built Using <a name = "built_using"></a>
 
-- [pandas](https://pandas.pydata.org/docs/index.html) - Ferramentas para manipulação de DataFrames.
-- [scikit-learn](https://scikit-learn.org/stable/) - Ferramentas para predição de dados.
-- [plotly](https://plotly.com/python/) - Ferramentas para criação de gráficos.
+- [pandas](https://pandas.pydata.org/docs/index.html) - Data analysis and manipulation tool.
+- [scikit-learn](https://scikit-learn.org/stable/) - Tools for predictive data analysis.
+- [plotly](https://plotly.com/python/) - Open Source Graphing Library.
 
-## ✍️ Autores <a name = "autores"></a>
+## ✍️ Authors <a name = "authors"></a>
 
-- [@JeanPoffo](https://github.com/JeanPoffo) - Idealização e Desenvolvimento.
+- [@JeanPoffo](https://github.com/JeanPoffo)
